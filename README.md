@@ -14,19 +14,23 @@ Greetings, my name is **Dutch** I am a new *student* to the tech community and e
 
 I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) have a look around.
 
-[##Things I want to learn more about](./201/class1.md)
-[Reading One](./201/class2.md)
-[Reading One](./201/class3.md)
-[Reading One](./201/class4.md)
-[Reading One](./201/class5.md)
-[Reading One](./201/class6.md)
-[Reading One](./201/class7.md)
-[Reading One](./201/class8.md)
-[Reading One](./201/class9.md)
-[Reading One](./201/class10.md)
-[Reading One](./201/class11.md)
-[Reading One](./201/class12.md)
-[Reading One](./201/class13.md)
-[Reading One](./201/class14.md)
-[Reading One](./201/class15.md)
+## Things I want to learn more about
+/*:
+- [Reading One](./201/class1.md)
+- [Reading One](./201/class2.md)
+- [Reading One](./201/class3.md)
+- [Reading One](./201/class4.md)
+- [Reading One](./201/class5.md)
+- [Reading One](./201/class6.md)
+- [Reading One](./201/class7.md)
+- [Reading One](./201/class8.md)
+- [Reading One](./201/class9.md)
+- [Reading One](./201/class10.md)
+- [Reading One](./201/class11.md)
+- [Reading One](./201/class12.md)
+- [Reading One](./201/class13.md)
+- [Reading One](./201/class14.md)
+- [Reading One](./201/class15.md)
+*/
+
 
