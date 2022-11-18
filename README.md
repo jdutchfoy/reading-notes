@@ -11,3 +11,19 @@ Greetings, my name is **Dutch** I am a new *student* to the tech community and e
 * and be inspired by my peers success.
 
 I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) have a look around.
+
+[Reading One](./201/class1.md)
+[Reading One](./201/class2.md)
+[Reading One](./201/class3.md)
+[Reading One](./201/class4.md)
+[Reading One](./201/class5.md)
+[Reading One](./201/class6.md)
+[Reading One](./201/class7.md)
+[Reading One](./201/class8.md)
+[Reading One](./201/class9.md)
+[Reading One](./201/class10.md)
+[Reading One](./201/class11.md)
+[Reading One](./class12.md)
+[Reading One](./class13.md)
+[Reading One](./class14.md)
+[Reading One](./class15.md
