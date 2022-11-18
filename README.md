@@ -23,7 +23,8 @@ I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) 
 [Reading One](./201/class9.md)
 [Reading One](./201/class10.md)
 [Reading One](./201/class11.md)
-[Reading One](./class12.md)
-[Reading One](./class13.md)
-[Reading One](./class14.md)
-[Reading One](./class15.md
+[Reading One](./201/class12.md)
+[Reading One](./201/class13.md)
+[Reading One](./201/class14.md)
+[Reading One](./201/class15.md)
+
