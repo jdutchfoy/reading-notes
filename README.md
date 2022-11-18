@@ -15,7 +15,7 @@ Greetings, my name is **Dutch** I am a new *student* to the tech community and e
 I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) have a look around.
 
 ## Things I want to learn more about
-/*:
+/
 - [Reading One](./201/class1.md)
 - [Reading One](./201/class2.md)
 - [Reading One](./201/class3.md)
@@ -31,6 +31,6 @@ I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) 
 - [Reading One](./201/class13.md)
 - [Reading One](./201/class14.md)
 - [Reading One](./201/class15.md)
-*/
+/
 
 
