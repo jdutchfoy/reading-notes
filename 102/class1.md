@@ -1,1 +1,1 @@
-Playing Catch Up
+This topic relates to the days curriculum. Another opportunity to flex the fingers and navigate the terminal and editor is ideal for how I learn. I am catching up on my verbiage and confidence when navigating between VS code and terminal. I played with **bold** and *italics* right out of the gate to sample markdwon. 
