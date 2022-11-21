@@ -7,3 +7,11 @@ HTML (HyperText Markup Language) is the code that is used to structure a web pag
 HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as head title main footer and many others.
 
 This topic relates to the days curriculum. Another opportunity to flex the fingers and navigate the terminal and editor is ideal for how I learn. I am catching up on my verbiage and confidence when navigating between VS code and terminal. I played with **bold** and *italics* right out of the gate to sample markdown  
+
+## Things I want to know more about
+
+What are some good resources to learn about best practices for building wireframes?
+wireframe tools
+HTML attributes and tags
+semantics
+
