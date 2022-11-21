@@ -10,8 +10,8 @@ This topic relates to the days curriculum. Another opportunity to flex the finge
 
 ## Things I want to know more about
 
-What are some good resources to learn about best practices for building wireframes?
-wireframe tools
-HTML attributes and tags
-semantics
+* What are some good resources to learn about best practices for building wireframes?
+* wireframe tools
+* HTML attributes and tags
+* semantics
 
