@@ -7,3 +7,7 @@
 * whats renedered content
 * can we use another editor other than vs code in class
 * is compiler another word for editor
+
+**THIRD PARTY EDITORS**
+
+Atom, Text wrangler, Sublime Text
