@@ -1,8 +1,0 @@
-[Reading One](./class1.md)
-[Reading One](./class2.md)
-[Reading One](./class3.md)
-[Reading One](./class4.md)
-[Reading One](./class5.md)
-[Reading One](./class6.md)
-[Reading One](./class7.md)
-[Reading One](./class8.md)
