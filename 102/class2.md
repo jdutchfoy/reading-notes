@@ -4,7 +4,7 @@
 
 ## Things I want to know more about
 
-* whats renedered content
+* whats rendered content
 * can we use another editor other than vs code in class
 * is compiler another word for editor
 
