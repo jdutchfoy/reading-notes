@@ -10,5 +10,3 @@ Git is set up to greatly minimize the possibility of irreversible damage to file
 * clarifications on *branches* & *switching branches*
 * creating a new file
 * save requirements before closing editor and terminal
-
-
