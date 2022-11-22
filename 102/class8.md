@@ -8,7 +8,6 @@ The expression 3 + 4 is an example of the second type. This expression uses the 
 
 As the examples above also illustrate, all complex expressions are joined by operators, such as = and +. In this section, we will introduce the following operators:
 
-
 The precedence of operators determines the order they are applied when evaluating an expression. For example:
 
 const x = 1 + 2 *3;
@@ -21,23 +20,23 @@ An assignment operator assigns a value to its left operand based on the value of
 
 There are also compound assignment operators that are shorthand for the operations listed in the following table:
 
-Name	Shorthand operator	Meaning
-Assignment	x = f()	x = f()
-Addition assignment	x += f()	x = x + f()
-Subtraction assignment	x -= f()	x = x - f()
-Multiplication assignment	x *= f()	x = x * f()
-Division assignment	x /= f()	x = x / f()
-Remainder assignment	x %= f()	x = x % f()
-Exponentiation assignment	x **= f()	x = x ** f()
-Left shift assignment	x <<= f()	x = x << f()
-Right shift assignment	x >>= f()	x = x >> f()
-Unsigned right shift assignment	x >>>= f()	x = x >>> f()
-Bitwise AND assignment	x &= f()	x = x & f()
-Bitwise XOR assignment	x ^= f()	x = x ^ f()
-Bitwise OR assignment	x |= f()	x = x | f()
-Logical AND assignment	x &&= f()	x && (x = f())
-Logical OR assignment	x ||= f()	x || (x = f())
-Nullish coalescing assignment	x ??= f()	x ?? (x = f())
+Name Shorthand operator Meaning
+Assignment x = f() x = f()
+Addition assignment x += f() x = x + f()
+Subtraction assignment x -= f() x = x - f()
+Multiplication assignment x *= f() x = x* f()
+Division assignment x /= f() x = x / f()
+Remainder assignment x %= f() x = x % f()
+Exponentiation assignment x **= f() x = x** f()
+Left shift assignment x <<= f() x = x << f()
+Right shift assignment x >>= f() x = x >> f()
+Unsigned right shift assignment x >>>= f() x = x >>> f()
+Bitwise AND assignment x &= f() x = x & f()
+Bitwise XOR assignment x ^= f() x = x ^ f()
+Bitwise OR assignment x |= f() x = x | f()
+Logical AND assignment x &&= f() x && (x = f())
+Logical OR assignment x ||= f() x || (x = f())
+Nullish coalescing assignment x ??= f() x ?? (x = f())
 Assigning to properties
 If an expression evaluates to an object, then the left-hand side of an assignment expression may make assignments to properties of that expression. For example:
 
