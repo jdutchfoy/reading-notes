@@ -1,6 +1,6 @@
 # README.md
 
-## 201 01 NOTES git clone
+## Read Assignment 1 Notes git clone
 
 **Computers connected to the internet are called clients and servers.**
 

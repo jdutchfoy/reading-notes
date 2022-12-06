@@ -1,6 +1,6 @@
 # README.MD
 
- ##READ ASSIGNMENT 2##
+## READ ASSIGNMENT 2 Notes
 
 1.we need to make sure we are using the correct elements, giving our content the correct meaning, function, or appearance.
 2.There are six levels of headings defined by HTML. These 6 heading elements are h1, h2, h3, h4, h5, and h6; with h1 being the highest level and h6 being the least.
@@ -55,4 +55,3 @@ b.The logical OR (||) (logical disjunction) operator for a set of operands is 
 * *loops*
 * *arrays*
 * *index* and *values*
-
