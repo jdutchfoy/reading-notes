@@ -1,9 +1,6 @@
 # README.md
 
-## Read Assignment 4 Notes 
-
-Read Assignment 4
-
+## Read Assignment 4 Notes
 
 1. A basic link is created by wrapping the text or other content, see Block level links, inside an <a> element and using the href attribute, also known as a Hypertext Reference, or target, that contains the web address.   EX 
 <a href="https://www.mozilla.org/en-US/">the Mozilla homepage</a>.
