@@ -1,7 +1,7 @@
 # README.md
 
 ## Read Assignment 5
-git 
+
 Read Assignment 5
 
 The user is visually impaired, and is using a screen reader to read the web out to them. In fact, having alt text available to describe images is useful to most users.
