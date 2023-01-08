@@ -2,8 +2,6 @@
 
 ## Read Assignment 5
 
-Read Assignment 5
-
 The user is visually impaired, and is using a screen reader to read the web out to them. In fact, having alt text available to describe images is useful to most users.
 As described above, the spelling of the file or path name might be wrong.
 The browser doesn't support the image type. Some people still use text-only browsers, such as Lynx, which displays the alt text of images.

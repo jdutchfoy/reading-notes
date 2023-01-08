@@ -2,8 +2,6 @@
 
 ## Read assignment 11
 
-Read Assignment 11
-
 One of the notable advancements in the audio sector since the 2000s is the introduction of digital streaming platforms. Websites like YouTube, MySpace, and Napster were part of the early group of companies that supported music streaming. They allowed artists to upload and share their music with a global audience for free. More recently, there have been other streaming sites like SoundCloud along with downloadable platforms like Spotify, TIDAL, and Apple Music.
 2.In the same way as for the <img> element, the src (source) attribute contains a path to the  	video you want to embed. It works in exactly the same way.Users must be able to control video and audio playback (it's especially critical for people who have epilepsy.) You must either use the controls attribute to include the browser's own control interface, or build your interface using the appropriate JavaScript API. At a minimum, the interface must include a way to start and stop the media, and to adjust the volume.
 

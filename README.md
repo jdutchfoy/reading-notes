@@ -37,3 +37,22 @@ I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) 
 - [Reading Fourteen](./201/class14.md)
 - [Reading Fifteen](./201/class15.md)
 
+### 301 Notes
+
+- [Reading One](./301/class1.md)
+- [Reading Two](./301/class2.md)
+- [Reading Three](./301/class3.md)
+- [Reading Four](./301/class4.md)
+- [Reading Five](./301/class5.md)
+- [Reading Six](./301/class6.md)
+- [Reading Seven](./301/class7.md)
+- [Reading Eight](./301/class8.md)
+- [Reading Nine](./301/class9.md)
+- [Reading Ten](./301/class10.md)
+- [Reading Eleven](./301/class11.md)
+- [Reading Twelve](./301/class12.md)
+- [Reading Thirteen](./301/class13.md)
+- [Reading Fourteen](./301/class14.md)
+- [Reading Fifteen](./301/class15.md)
+
+### 401 Notes
