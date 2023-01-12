@@ -56,3 +56,20 @@ I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) 
 - [Reading Fifteen](./301/class15.md)
 
 ### 401 Notes
+
+- [Reading  1](class-15.md)
+- [Reading  2](class2-01.md)
+- [Reading  3](class2-03.md)
+- [Reading  4](class2-04.md)
+- [Reading  5](class2-05.md)
+- [Reading  6](class2-06.md)
+- [Reading  7](class2-07.md)
+- [Reading  8](class2-08.md)
+- [Reading  9](class2-09.md)
+- [Reading  10](class2-10.md)
+- [Reading  11](class2-11.md)
+- [Reading  12](class2-12.md)
+- [Reading  13](class2-13.md)
+- [Reading  14](class2-14.md)
+- [Reading  15](class2-15.md)
+
