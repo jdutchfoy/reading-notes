@@ -8,7 +8,8 @@ I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) 
 
 ## Table of contents
 
-### 102 Notes
+### 102 Notes ### Code 102 - Intro into Software Development 
+
 
 - [Reading One](./102/class1.md)
 - [Reading Two](./102/class2.md)
@@ -57,19 +58,19 @@ I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) 
 
 ### 401 Notes
 
-- [Reading  1](class-15.md)
-- [Reading  2](class2-01.md)
-- [Reading  3](class2-03.md)
-- [Reading  4](class2-04.md)
-- [Reading  5](class2-05.md)
-- [Reading  6](class2-06.md)
-- [Reading  7](class2-07.md)
-- [Reading  8](class2-08.md)
-- [Reading  9](class2-09.md)
-- [Reading  10](class2-10.md)
-- [Reading  11](class2-11.md)
-- [Reading  12](class2-12.md)
-- [Reading  13](class2-13.md)
-- [Reading  14](class2-14.md)
-- [Reading  15](class2-15.md)
+- [Reading  1](./401/class1.md)
+- [Reading  2](./401/class2.md)
+- [Reading  3](./401/class3.md)
+- [Reading  4](./401/class4.md)
+- [Reading  5](./401/class5.md)
+- [Reading  6](./401/class6.md)
+- [Reading  7](./401/class7.md)
+- [Reading  8](./401/class8.md)
+- [Reading  9](./401/class9.md)
+- [Reading  10](./401/class10.md)
+- [Reading  11](./401/class11.md)
+- [Reading  12](./401/class12.md)
+- [Reading  13](./401/class13.md)
+- [Reading  14](./401/class14.md)
+- [Reading  15](./401/class15.md)
 
