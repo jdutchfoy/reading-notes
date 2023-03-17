@@ -8,7 +8,7 @@ I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) 
 
 ## Table of contents
 
-### 102 Notes ### Code 102 - Intro into Software Development 
+### 102 Notes - Intro to Software Development 
 
 
 - [Reading One](./102/class1.md)
@@ -20,7 +20,7 @@ I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) 
 - [Reading Seven](./102/class7.md)
 - [Reading Eight](./102/class8.md)
 
-### 201 Notes
+### 201 Notes - Foundations of Software Development
 
 - [Reading One](./201/class1.md)
 - [Reading Two](./201/class2.md)
@@ -38,7 +38,7 @@ I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) 
 - [Reading Fourteen](./201/class14.md)
 - [Reading Fifteen](./201/class15.md)
 
-### 301 Notes
+### 301 Notes - Intermediate Software Development
 
 - [Reading One](./301/class1.md)
 - [Reading Two](./301/class2.md)
@@ -56,7 +56,7 @@ I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) 
 - [Reading Fourteen](./301/class14.md)
 - [Reading Fifteen](./301/class15.md)
 
-### 401 Notes
+### 401 Notes - Advanced Software Development
 
 - [Reading  1](./401/class1.md)
 - [Reading  2](./401/class2.md)
