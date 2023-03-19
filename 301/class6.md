@@ -34,11 +34,7 @@ install the jshint, simply type npm install -g jshint on your terminal. The jshi
 
 users/developers write code in JavaScript, which is run by the computer/OS, instead of using or running it in a browser. There is also no need to worry about compatibility issues since it runs directly from the computer instead of the browser 2Links to an external site..
 
- 
-
 6 Reasons for Pair Programming
-
- 
 
 Greater efficiency
 Engaged collaboration
@@ -46,7 +42,6 @@ Learning from fellow students
 Social skills
 Job interview readiness
 Work environment readiness
- 
 
 Social skills improve, devs can differ to styles, and personality types. Pushed to practice communication and work together.One who is more experienced on the topic can also help those less familiar with it.
 
