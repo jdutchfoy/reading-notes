@@ -36,7 +36,7 @@ In Bash, there are several commands for creating, removing, renaming, copying, a
 
 **My taking-away**
 
-- How to use the command line:
+## How to use the command line:
 
 * Open the terminal application on your computer
 * Type a command and hit Enter to execute it
@@ -44,24 +44,24 @@ In Bash, there are several commands for creating, removing, renaming, copying, a
 * Use the Up and Down arrow keys to cycle through previously entered commands
 * Use Ctrl + C to cancel a command or process
 
-- Basic navigation:
+## Basic navigation:
 * pwd - display the current working directory
 * cd - change the current directory
 * ls - list the contents of a directory
 * mkdir - create a new directory
 
-- Files:
+## Files:
 touch - create a new file
 rm - remove a file or directory
 mv - move or rename a file or directory
 cp - copy a file or directory
 
-- Manual pages:
+## Manual pages:
 * man - display the manual page for a command
 * info - display detailed information about a command
 * --help - display a short summary of a command's usage and options
 
-- File manipulation:
+## File manipulation:
 * cat - concatenate and display files
 * head - display the first few lines of a file
 * tail - display the last few lines of a file
