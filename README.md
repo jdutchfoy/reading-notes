@@ -83,7 +83,3 @@ I have enclosed a link to my [github profile](https://www.github.com/jdutchfoy) 
 - [Reading  TwentyThree](./401/class23.md)
 - [Reading  TwentyFour](./401/class24.md)
 - [Reading  TwentyFive](./401/class25.md)
-- [Reading  TwentySix](./401/class26.md)
-
-
-
