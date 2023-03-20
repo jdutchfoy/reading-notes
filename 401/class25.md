@@ -38,17 +38,17 @@ In Bash, there are several commands for creating, removing, renaming, copying, a
 
 - How to use the command line:
 
-Open the terminal application on your computer
-Type a command and hit Enter to execute it
-Use the Tab key to autocomplete commands and paths
-Use the Up and Down arrow keys to cycle through previously entered commands
-Use Ctrl + C to cancel a command or process
+* Open the terminal application on your computer
+* Type a command and hit Enter to execute it
+* Use the Tab key to autocomplete commands and paths
+* Use the Up and Down arrow keys to cycle through previously entered commands
+* Use Ctrl + C to cancel a command or process
 
 - Basic navigation:
-pwd - display the current working directory
-cd - change the current directory
-ls - list the contents of a directory
-mkdir - create a new directory
+* pwd - display the current working directory
+* cd - change the current directory
+* ls - list the contents of a directory
+* mkdir - create a new directory
 
 - Files:
 touch - create a new file
@@ -57,13 +57,13 @@ mv - move or rename a file or directory
 cp - copy a file or directory
 
 - Manual pages:
-man - display the manual page for a command
-info - display detailed information about a command
---help - display a short summary of a command's usage and options
+* man - display the manual page for a command
+* info - display detailed information about a command
+* --help - display a short summary of a command's usage and options
 
 - File manipulation:
-cat - concatenate and display files
-head - display the first few lines of a file
-tail - display the last few lines of a file
-grep - search for a pattern in a file
-sed - perform text substitutions in a file
+* cat - concatenate and display files
+* head - display the first few lines of a file
+* tail - display the last few lines of a file
+* grep - search for a pattern in a file
+* sed - perform text substitutions in a file
