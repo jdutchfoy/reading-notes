@@ -1,6 +1,8 @@
 # README.md
 
-Readings: FileIO & Exceptions
+## Read Assignment 3
+
+### Readings: FileIO & Exceptions
 
 Reading and Writing Files in Python (Guide)
 One of the common tasks in coding is reading and writing files. According to Mertz (n.d.), "a file is a contiguous set of bytes used to store data"; this file can be a text file or an executable program.
