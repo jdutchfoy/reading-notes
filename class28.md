@@ -1,3 +1,5 @@
+# README.md
+
 ## Class and Objects
 
  A class is a blueprint that decribes behaviors and properties; the object, an instance, has these properties/behaviors. According to Learnpython (n.d.), "Objects are an encapsulation of variables and functions into a single entity"; they get these functions and variables form classes.
