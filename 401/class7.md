@@ -1,5 +1,7 @@
 # README.md
 
+## Read Assignment 7 TEN-THOUSAND 2
+
  Understanding variable scope, global and nonlocal keywords, Big O notation, and simulation of dice roll in Python are important  to writing effective and efficient code.
 
 Variable scope refers to the accessibility of a variable within a program. Local scope variables are only accessible within a function or block of code, while global scope variables are accessible throughout the entire program. For example:
